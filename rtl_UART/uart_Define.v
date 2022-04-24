@@ -1,0 +1,13 @@
+`timescale 1ns/1ns
+
+/////////////////////////////////////////////
+// RX or Using Buffer
+//`define		using_Buffer
+//`define		using_Rx
+`define		using_Onebyte_Buffer
+/////////////////////////////////////////////
+
+////////////////////////////////////////////
+//	Tx triger(done_Tick? or Button)
+`define		done_Tick
+//`define		Button
